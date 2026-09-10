@@ -1,6 +1,6 @@
 ## Ben Sauskojus
 
-Backend engineer in Bozeman, MT, currently at Linktree.
+Backend engineer in Montana currently at Linktree.
 
 I build high-throughput data pipelines and the distributed systems around them — backend work that has to move a lot of data on a schedule without falling over.
 
