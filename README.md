@@ -1,6 +1,6 @@
 ## Ben Sauskojus
 
-Software engineer in Montana currently at Linktree.
+Software engineer in Montana.
 
 I like owning things end to end — the API, the interface in front of it, and the infrastructure underneath. My depth is on the backend: high-throughput data pipelines and the distributed systems around them. But I've shipped frontends, internal tools, serverless workflows, and games, and I do my best work when the problem doesn't stop at a layer boundary.
 
