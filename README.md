@@ -24,6 +24,6 @@ I also build games — `C#`/Unity and `GDScript`/Godot — mostly for fun.
 
 ---
 
-Most of what I build professionally is closed-source, so this profile is a thin slice of the work. The public repos here are mostly older side projects from an earlier freelance phase. Happy to talk through the rest.
+Most of what I build professionally is closed-source, so this profile is a thin slice of the work. The public repos here are mostly older side projects from an earlier freelance phase. 
 
 [LinkedIn](https://www.linkedin.com/in/ben-sauskojus-2071781b1/) · ben.sauskojus@gmail.com
